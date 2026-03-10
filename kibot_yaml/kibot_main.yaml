@@ -562,7 +562,7 @@ definitions:
   # Metadata ===================================================================
 
   PROJECT_NAME: VIKI_PDCU_EGSE
-  BOARD_NAME: VIKI_PDCU_EGSE_Board
+  BOARD_NAME: VIKI_PDCU_EGSE
 
   COMPANY: REALTRA SPACE SYSTEMS LIMITED
   DESIGNER: Leslie Pen

@@ -2,18 +2,6 @@
 
 ## [Unreleased]
 
-### Fixed
-
--   Fixes
-
 ### Added
 
--   Additions
-
-### Changed
-
--   Changes
-
-### Removed
-
--   Deletions
+-   First Version of Schematic and PCB
