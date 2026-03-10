@@ -1,5 +1,5 @@
 ** Drc report for R-PCBA-VPEG-PWR.kicad_pcb **
-** Created on 2026-03-10T15:03:13+0000 **
+** Created on 2026-03-10T15:50:46+0000 **
 
 ** Found 113 DRC violations **
 [lib_footprint_mismatch]: Footprint 'R_0805_2012Metric' does not match copy in library 'Resistor_SMD'.
